@@ -41,7 +41,7 @@ Campus-Awaaz
 ##  How to Run Locally
 
 ### 1. Clone the repo
-git clone https://github.com/your-username/Campus-Awaaz.git
+git clone https://github.com/sushmithareddy4234-hash/Campus-Awaaz.git
 
 ### 2. Backend setup
 cd backend  
